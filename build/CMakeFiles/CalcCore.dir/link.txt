@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc libCalcCore.a CMakeFiles/CalcCore.dir/src/BigCalculator.cpp.obj
+C:\mingw64\bin\ranlib.exe libCalcCore.a

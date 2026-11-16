@@ -1,0 +1,4 @@
+C:/Users/User/Desktop/labs/dismath/build/CMakeFiles/CalcCore.dir
+C:/Users/User/Desktop/labs/dismath/build/CMakeFiles/Calculator.dir
+C:/Users/User/Desktop/labs/dismath/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/labs/dismath/build/CMakeFiles/rebuild_cache.dir
