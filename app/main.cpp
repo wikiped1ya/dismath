@@ -26,7 +26,7 @@ int main() {
 
    BigCalculator calculator;
 
-   std::cout << "Калькулятор готов\n";
+   std::cout << "Калькулятор готов!\n";
 
    while (true) {
       std::cout << "1 - сложение\n";
